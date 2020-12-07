@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "ojdbc6.jar",
+        "bin/ojdbc6.jar"
+    ],
+    "java.format.settings.url": "eclipse-formatter.xml"
+}
